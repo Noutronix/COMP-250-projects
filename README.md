@@ -1,6 +1,6 @@
 # COMP-250-projects
 
-Here is a quick description of each project we worked on in COMP 250, as well as the learning objectives for each.
+Here is a quick description of each project we worked on in COMP 250, as well as the learning objectives for each
 
 Assignment 1: Designing a simple tower defense game.
 
